@@ -16,7 +16,7 @@ Multi-signatures are a special contract which can act as a wallet which requires
 
 HOVOH: 0x723BF24e952ac47C52bB6df19DE16294b027Cd3E
 
-AgnosticChain: 0x5d38d88153c6Dac34B5c2e102715C2E52a82E22c
+Agnostyk: 0x5d38d88153c6Dac34B5c2e102715C2E52a82E22c
 
 ComeWithMe: 0x3A1b69C7bE81c10E516F0F591B5aee92492F36e8
 
