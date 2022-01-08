@@ -2,9 +2,8 @@
 
 ## What is EXODIA?
 
-EXODIA is a decentralized reserve currency protocol based on the EXOD token. Each EXOD token is backed by a basket of assets (e.g. DAI, FTM) in the EXODIA treasury, giving it an intrinsic value that it cannot fall below. EXODIA also introduces unique economic and game-theoretic dynamics into the market through staking and bonding.
-
-There is no team allocation, there was no presale. `—— In order to develop ties with Olympus, EXODIA will allocate 33% of its excess reserves to purchase assets denominated in OHM.`
+EXODIA is a decentralized reserve currency protocol based on the EXOD token. Each EXOD token is backed by a basket of assets (e.g. DAI, FTM, gOHM) in the EXODIA treasury, giving it a backing value that it shouldn't fall below. EXODIA also introduces unique economic and game-theoretic dynamics into the market through staking and bonding.
+There is no team allocation, there was no presale. `—— In order to develop ties with Olympus and integrate the Bretton Woods v0.2 system purposed by Zeus, EXODIA will allocate a percentage of its excess reserves to purchase assets denominated in OHM.`
 
 ## What is the point of EXODIA?
 
@@ -22,7 +21,7 @@ The main benefit for bonders comes from price consistency. Bonders commit a capi
 
 ## Who created EXODIA?
 
-EXODIA is a fork of [**Olympus**](https://www.olympusdao.finance) **** on the Fantom Network. Our team is mostly anonymous, born from the DeFi Community. We aim at becoming a Decentralized Autonomous Organization, and we are actively working towards that goal.
+EXODIA is a fork of [**Olympus**](https://www.olympusdao.finance) on the Fantom Network. Our team is mostly anonymous, born from the DeFi Community. We aim at becoming a Decentralized Autonomous Organization, and we are actively working towards that goal.
 
 ## Who runs EXODIA?
 
