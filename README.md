@@ -22,7 +22,7 @@ The main benefit for bonders comes from price consistency. Bonders commit a capi
 
 ## Who created EXODIA?
 
-EXODIA is a fork of [**Olympus**](https://www.olympusdao.finance) **** on the Fantom Network. Our team is mostly anonymous, born from the DeFi Community. We aim at becoming a Decentralized Autonomous Organization, and we are actively working towards that goal.
+EXODIA is a fork of [**Olympus**](https://www.olympusdao.finance) on the Fantom Network. Our team is mostly anonymous, born from the DeFi Community. We aim at becoming a Decentralized Autonomous Organization, and we are actively working towards that goal.
 
 ## Who runs EXODIA?
 
