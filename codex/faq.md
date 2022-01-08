@@ -72,7 +72,7 @@ Rebase is a mechanism by which your staked EXOD balance increases automatically.
 
 ## What is reward yield?
 
-Reward yield is the percentage by which your staked EXOD balance increases on the next epoch. It is also known as _rebase rate_. You can find this number on the [EXODIA staking page](https://app.exodia.finance/#/stake).
+Reward yield is the percentage by which your staked EXOD balance increases on the next epoch. It is also known as _rebase rate_. You can find this number on the [EXODIA staking page](https://app.exodia.fi/stake).
 
 ## What is APY?
 
