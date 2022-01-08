@@ -25,4 +25,6 @@ EXODIA is a fork of [**Olympus**](https://www.olympusdao.finance) on the Fantom 
 
 ## Who runs EXODIA?
 
-Currently most of the decisions are taken by the core team, but we expect to be able to turn this into a DAO-governed model as soon as possible!
+EXODIA is DAO-governed. The core team presents the best solutions/partnerships/direction for the protocol and community express they sentiment about them through [snapshot](https://snapshot.org/#/exodiadao.eth) voting. 
+
+Policies such as APY, BCV (Bond Control Variable) and DCV (Deflation Control Variable) are decided by the core team.
