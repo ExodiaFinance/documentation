@@ -17,14 +17,14 @@ The "Approve" transaction is only needed when you swap EXOD for the first time; 
 
 ## How to Stake
 
-1. Go to the [Stake page of the EXODIA website](https://app.exodia.finance/#/stake). Select the "Stake" tab.
+1. Go to the [Stake page of the EXODIA website](https://app.exodia.fi/stake). Select the "Stake" tab.
 2. Enter the amount of EXOD that you would like to stake in the input field. If you would like to stake all your EXOD, press the "Max" button and the input field will be populated with all your available EXOD balance.
 3. Click "Approve" and sign the transaction.
 4. After the "Approve" transaction has been processed successfully, click "Stake" and sign the transaction. Voila, you have staked your EXOD!
 
 ## How to Unstake
 
-1. Go to the [Stake page of the EXODIA website](https://app.exodia.finance/#/stake). Select the "Unstake" tab.
+1. Go to the [Stake page of the EXODIA website](https://app.exodia.fi/stake). Select the "Unstake" tab.
 2. Enter the amount of sEXOD that you would like to unstake in the input field. If you would like to unstake all your sEXOD press the "Max" button and the input field will be populated with all your available sEXOD balance.
 3. Click "Approve" and sign the transaction.
 4. After the "Approve" transaction has been processed successfully, click "Unstake" and sign the transaction.
