@@ -35,6 +35,5 @@ We are a Decentralised Autonomous Organisation and the growth of our team will h
 
 As explained above we are a DAO and thus, governance decisions are executed in the following methods.
 
-⦁	Policy decisions are currently decided within the core team until sufficient growth in the community and education of the community enables policy decisions to be decided through snapshot voting.
-
-⦁	Investment, Funding and Community developments are decided by the community via a snapshot vote and then executed upon conclusion of that voting result.
+* Policy decisions are currently decided within the core team until sufficient growth in the community and education of the community enables policy decisions to be decided through snapshot voting.
+* Investment, Funding and Community developments are decided by the community via a snapshot vote and then executed upon conclusion of that voting result.
