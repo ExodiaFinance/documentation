@@ -20,8 +20,6 @@ There are two main strategies for market participants: [staking](using-the-websi
 
 As we are a community run DAO we also have various roles available for contribution, for more information please join our discord server and speak with an Architect or Moderator.
 
-https://discord.gg/exodia
-
 ## How can I benefit from EXODIA?
 
 The main benefit for stakers comes from supply growth. The protocol mints new EXOD tokens from the treasury, the majority of which are distributed to the stakers. Thus, the gain for stakers will come from their auto-compounding balances, though price exposure remains an important consideration. That is, if the increase in token balance outpaces the potential drop in price (due to inflation), stakers would make a profit.
