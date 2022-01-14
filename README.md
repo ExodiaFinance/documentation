@@ -5,6 +5,7 @@
 EXODIA is a decentralized reserve currency protocol based on the EXOD token. Each EXOD token is backed by a basket of assets (e.g. DAI, wFTM, gOHM, MAI) in the EXODIA treasury, giving it an intrinsic value that it cannot fall below. EXODIA also introduces unique economic and game-theoretic dynamics into the market through staking, bonding and treasury investment strategies.
 
 `We are an extension of OlympusDAO built on the Fantom chain and will be part of OlympusDAOs Bretton Woods re-imagination.`
+
 There was no team allocation of tokens, there was no presale.
 
 
