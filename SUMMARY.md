@@ -15,7 +15,7 @@
 * [Purchase A Bond](using-the-website/purchase-a-bond/README.md)
   * [DAI Bond](using-the-website/purchase-a-bond/dai-bond.md)
   * [wFTM Bond](using-the-website/purchase-a-bond/wftm-bond.md)
-  * [The Monolith LP Bond](using-the-website/purchase-a-bond/monolith-lp-bond.md)
+  * [The Monolith LP Bond](using-the-website/purchase-a-bond/the-monolith-lp-bond.md)
 
 ## Protocol Monolith
 
