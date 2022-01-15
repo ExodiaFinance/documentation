@@ -41,13 +41,13 @@ Thus, given two actors, all scenarios of what they could do and the effect on th
 * When one of us sells, it diminishes effort of the other one who stakes or bonds (1 - 1 = 0).
 * When we both sell, it creates the worst outcome for both of us and the protocol (-3 - 3 = -6).
 
-## Why is [PCV](https://github.com/Agnostik3301/documentation/blob/main/ecosystem/glossary.md#pcv) important?
+## Why is [PCV](../ecosystem/glossary.md#pcv) important?
 
 As the protocol controls the funds in its treasury, EXOD can only be minted or burned by the protocol. This also guarantees that the protocol can always back 1 EXOD with 1 DAI. You can easily define the risk of your investment because you can be confident that the protocol will indefinitely buy EXOD below 1 DAI with the treasury assets until no one is left to sell. You can't trust the FED but you can trust the code.
 
 As the protocol accumulates more PCV, more runway is guaranteed for the stakers. This means the stakers can be confident that the current staking APY can be sustained for a longer term because more funds are available in the treasury.
 
-## Why is [POL](https://github.com/Agnostik3301/documentation/blob/main/ecosystem/glossary.md#pol) important?
+## Why is [POL](../ecosystem/glossary.md#pol) important?
 
 EXODIA owns most of its liquidity thanks to its bond mechanism. This has several benefits:
 
