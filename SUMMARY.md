@@ -14,7 +14,8 @@
 * [Stake Your EXOD (🧪,🧪)](using-the-website/stake-your-exod.md)
 * [Purchase A Bond](using-the-website/purchase-a-bond/README.md)
   * [DAI Bond](using-the-website/purchase-a-bond/dai-bond.md)
-  * [EXOD-DAI LP Bond](using-the-website/purchase-a-bond/exod-dai-lp-bond.md)
+  * [wFTM Bond](using-the-website/purchase-a-bond/wftm-bond.md)
+  * [The Monolith LP Bond](using-the-website/purchase-a-bond/monolith-lp-bond.md)
 
 ## Protocol Monolith
 
