@@ -8,7 +8,7 @@ Multi-signatures are a special contract which can act as a wallet which requires
 
 ## Team wallet
 
-**Description:** This contract has the ownership of the contracts (except the treasury) and can change policy. It requires 2/3 signatures.
+**Description:** This contract has the ownership of the contracts (except the treasury) and can change policy. It requires 3/5 signatures.
 
 **Link:** [https://safe.fantom.network/#/safes/0x9A1462a6dEC225388f52A4091e9C7D4a28D9eCe4/balances](https://safe.fantom.network/#/safes/0x9A1462a6dEC225388f52A4091e9C7D4a28D9eCe4/balances)
 
