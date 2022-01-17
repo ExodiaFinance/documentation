@@ -28,7 +28,7 @@ MeafQ: 0x72AFb664Bde3687AA4F531CCC8D1E430E9C39B9b
 
 **Description:** This wallet holds the team funds in EXOD which is minted when bonds are sold. These funds are for development purposes. This wallet is also the owner of the treasury. It requires 3/5 signatures.
 
-**Link:** [https://safe.fantom.network/#/safes/0xC4e0cbe134c48085e8FF72eb31f0Ebca29b152ee/settings](https://safe.fantom.network/#/safes/0xC4e0cbe134c48085e8FF72eb31f0Ebca29b152ee/settings)
+**Link:** [https://safe.fantom.network/#/safes/0xC4e0cbe134c48085e8FF72eb31f0Ebca29b152ee/settings](https://safe.fantom.network/#/safes/0xC4e0cbe134c48085e8FF72eb31f0Ebca29b152ee/balances)
 
 ### Signers
 
