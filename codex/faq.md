@@ -58,7 +58,7 @@ EXODIA owns most of its liquidity thanks to its bond mechanism. This has several
 
 ## Why is the market price of EXOD so volatile?
 
-It is extremely important to understand how early in development the EXODIA protocol is. A large amount of discussion has centered around the current price and an  expected stable value moving forward. The reality is that these characteristics are not yet determined. The network is currently tuned for expansion of EXOD supply, when paired with the staking, bonding, and yield mechanics of EXODIA, this results in a fair amount of volatility.
+It is extremely important to understand how early in development the EXODIA protocol is. A large amount of discussion has centered around the current price and an expected stable value moving forward. The reality is that these characteristics are not yet determined. The network is currently tuned for expansion of EXOD supply, when paired with the staking, bonding, and yield mechanics of EXODIA, this results in a fair amount of volatility.
 
 EXOD could trade at a very high price because the market is ready to pay a hefty premium to capture a percentage of the current market capitalization. However, the price of EXOD could also drop to a large degree if the market sentiment turns bearish. We would expect significant price volatility during our growth phase so please **do your own research** as to whether this project suits your own personal goals and investment timelines.
 
