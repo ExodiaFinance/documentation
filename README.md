@@ -2,17 +2,24 @@
 
 ## What is EXODIA?
 
-EXODIA is a decentralized reserve currency protocol based on the EXOD token. Each EXOD token is backed by a basket of assets (e.g. DAI, FTM, gOHM) in the EXODIA treasury, giving it a backing value that it shouldn't fall below. EXODIA also introduces unique economic and game-theoretic dynamics into the market through staking and bonding.
+EXODIA is a decentralized reserve currency protocol based on the EXOD token. Each EXOD token is backed by a basket of assets (e.g. DAI, wFTM, gOHM, MAI) in the EXODIA treasury, giving it an intrinsic value that it cannot fall below. EXODIA also introduces unique economic and game-theoretic dynamics into the market through staking, bonding and treasury investment strategies.
 
-There is no team allocation, there was no presale. `—— In order to develop ties with Olympus and integrate the Bretton Woods v0.2 system purposed by Zeus, EXODIA will allocate a percentage of its excess reserves to purchase assets denominated in OHM.`
+`We are an extension of OlympusDAO built on the Fantom chain and will be part of OlympusDAOs Bretton Woods re-imagination.`
 
-## What is the point of EXODIA?
+There was no team allocation of tokens, there was no presale.
 
-Our goal is to build a policy-controlled currency system, in which the behavior of the EXOD token is controlled at a high level. In the long term, we believe this system can be used to optimize for stability and consistency so that EXOD can function as a global unit-of-account and medium-of-exchange currency. In the short term, we intend to optimize the system for growth and wealth creation.
+
+## What is the purpose of EXODIA?
+
+Our goal is to build a policy-controlled currency system, in which the behaviour of the EXOD token is controlled at a high level. In the long term, we believe this system can be used to optimize for stability and consistency so that EXOD can function as a global unit-of-account and medium-of-exchange currency. In the short term, we intend to optimize the system for growth and wealth creation.
+
+Further to this we aim to become the decentralized reserve currency of Fantom, building partnerships through investment strategies, EXOD use cases, on-boarding of users to Fantom and an education system. With further developments and opportunities arising in the future.
 
 ## How do I participate in EXODIA?
 
-There are two main strategies for market participants: [staking](using-the-website/stake-your-exod.md) and [bonding](using-the-website/purchase-a-bond/). Stakers stake their EXOD tokens in return for more EXOD tokens, while bonders provide LP or DAI tokens in exchange for discounted EXOD tokens after a fixed vesting period.
+There are two main strategies for market participants: [staking](using-the-website/stake-your-exod.md) and [bonding](using-the-website/purchase-a-bond/). Stakers stake their EXOD tokens in return for more EXOD tokens, while bonders provide LP, DAI or wFTM tokens in exchange for discounted EXOD tokens after a fixed vesting period.
+
+As we are a community run DAO we also have various roles available for contribution, for more information please join our discord server and speak with an Architect or Moderator.
 
 ## How can I benefit from EXODIA?
 
@@ -22,9 +29,12 @@ The main benefit for bonders comes from price consistency. Bonders commit a capi
 
 ## Who created EXODIA?
 
-EXODIA is a fork of [**Olympus**](https://www.olympusdao.finance) on the Fantom Network. Our team is mostly anonymous, born from the DeFi Community. We aim at becoming a Decentralized Autonomous Organization, and we are actively working towards that goal.
+EXODIA is a fork of [**Olympus**](https://www.olympusdao.finance) on the Fantom Network. Our team has a mix of anonymous operators and fully doxed members.
+We are a Decentralised Autonomous Organisation and the growth of our team will have a correlation with the growth of our community.
 
 ## Who runs EXODIA?
 
-EXODIA is DAO-governed. The core team presents the best solutions/partnerships/direction for the protocol and community express they sentiment about them through snapshot voting.
-Policies such as APY, BCV (Bond Control Variable) and DCV (Deflation Control Variable) are decided by the core team.
+As explained above we are a DAO and thus, governance decisions are executed in the following methods.
+
+* Policy decisions are currently decided within the core team until sufficient growth in the community and education of the community enables policy decisions to be decided through snapshot voting.
+* Investment, Funding and Community developments are decided by the community via a snapshot vote and then executed upon conclusion of that voting result.

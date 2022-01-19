@@ -8,11 +8,11 @@ EXODIA aims to solve this by creating a free-floating reserve currency, EXOD, th
 
 ## Is EXOD a stablecoin?
 
-No, EXOD is not a stablecoin. Rather, EXOD aspires to become an algorithmic reserve currency backed by other decentralized assets. Similar to the idea of the gold standard, EXOD provides free floating value its users can always fall back on, simply because of the fractional treasury reserves EXOD draws its intrinsic value from.
+No, EXOD is not a stablecoin. Rather, EXOD aspires to become an algorithmic reserve currency backed by other decentralized assets. Similar to the idea of the gold standard, EXOD provides free floating value that its users can always fall back on, simply because of the fractional treasury reserves EXOD draws its intrinsic value from.
 
 ## EXOD is backed, not pegged.
 
-Each EXOD is backed by 1 DAI, not pegged to it. Because the treasury backs every EXOD with at least 1 DAI, the protocol would buy back and burn EXOD when it trades below 1 DAI. This has the effect of pushing EXOD price back up to 1 DAI. EXOD could always trade above 1 DAI because there is no upper limit imposed by the protocol. Think pegged == 1, while backed >= 1.
+Each EXOD is backed by 1 DAI, not pegged to it. Because the treasury backs every EXOD with at least 1 DAI, the DAO would step in and buy back and burn EXOD when it trades below 1 DAI. This has the effect of pushing EXOD price back up to 1 DAI. EXOD could always trade above 1 DAI because there is no upper limit imposed by the protocol. Think pegged == 1, while backed >= 1.
 
 You might say that the EXOD floor price or intrinsic value is 1 DAI. We believe that the actual price will always be 1 DAI + premium, but in the end that is up to the market to decide.
 
@@ -41,13 +41,13 @@ Thus, given two actors, all scenarios of what they could do and the effect on th
 * When one of us sells, it diminishes effort of the other one who stakes or bonds (1 - 1 = 0).
 * When we both sell, it creates the worst outcome for both of us and the protocol (-3 - 3 = -6).
 
-## Why is [PCV](https://github.com/Agnostik3301/documentation/blob/main/ecosystem/glossary.md#pcv) important?
+## Why is [PCV](../ecosystem/glossary.md#pcv) important?
 
-As the protocol controls the funds in its treasury, EXOD can only be minted or burned by the protocol. This also guarantees that the protocol can always back 1 EXOD with 1 DAI. You can easily define the risk of your investment because you can be confident that the protocol will indefinitely buy EXOD below 1 DAI with the treasury assets until no one is left to sell. You can't trust the FED but you can trust the code.
+As the protocol controls the funds in its treasury, EXOD can only be minted or burned by the DAO. This also guarantees that the DAO can always back 1 EXOD with 1 DAI. You can easily define the risk of your investment because you can be confident that the DAO will indefinitely buy EXOD below 1 DAI with the treasury assets until no one is left to sell. You can't trust the FED but you can trust the code.
 
 As the protocol accumulates more PCV, more runway is guaranteed for the stakers. This means the stakers can be confident that the current staking APY can be sustained for a longer term because more funds are available in the treasury.
 
-## Why is [POL](https://github.com/Agnostik3301/documentation/blob/main/ecosystem/glossary.md#pol) important?
+## Why is [POL](../ecosystem/glossary.md#pol) important?
 
 EXODIA owns most of its liquidity thanks to its bond mechanism. This has several benefits:
 
@@ -58,9 +58,9 @@ EXODIA owns most of its liquidity thanks to its bond mechanism. This has several
 
 ## Why is the market price of EXOD so volatile?
 
-It is extremely important to understand how early in development the EXODIA protocol is. A large amount of discussion has centered around the current price and expected a stable value moving forward. The reality is that these characteristics are not yet determined. The network is currently tuned for expansion of EXOD supply, which when paired with the staking, bonding, and yield mechanics of EXODIA, result in a fair amount of volatility.
+It is extremely important to understand how early in development the EXODIA protocol is. A large amount of discussion has centered around the current price and an expected stable value moving forward. The reality is that these characteristics are not yet determined. The network is currently tuned for expansion of EXOD supply, when paired with the staking, bonding, and yield mechanics of EXODIA, this results in a fair amount of volatility.
 
-EXOD could trade at a very high price because the market is ready to pay a hefty premium to capture a percentage of the current market capitalization. However, the price of EXOD could also drop to a large degree if the market sentiment turns bearish. We would expect significant price volatility during our growth phase so please **do your own research** whether this project suits your goals.
+EXOD could trade at a very high price because the market is ready to pay a hefty premium to capture a percentage of the current market capitalization. However, the price of EXOD could also drop to a large degree if the market sentiment turns bearish. We would expect significant price volatility during our growth phase so please **do your own research** as to whether this project suits your own personal goals and investment timelines.
 
 ## What is the point of buying it now when EXOD trades at a very high premium?
 
@@ -78,7 +78,7 @@ Reward yield is the percentage by which your staked EXOD balance increases on th
 
 APY stands for annual percentage yield. It measures the real rate of return on your principal by taking into account the effect of compounding interest. In the case of EXODIA, your staked EXOD represents your principal, and the compound interest is added periodically on every epoch (28800 Fantom blocks, or around 8 hours) thanks to the rebase mechanism.
 
-One interesting fact about APY is that your balance will grow not linearly but exponentially over time! Assuming a daily compound interest of 2%, if you start with a balance of 1 EXOD on day 1, after a year, your balance will grow to about 1377. That is a lot!
+One interesting fact about APY is that your balance will grow not linearly but exponentially over time! Assuming a daily compound interest of 2%, if you start with a balance of 1 EXOD on day 1, after a year, your balance will grow to about 1377. That is huge growth!
 
 ## How is the APY calculated?
 
@@ -102,11 +102,11 @@ $$
 EXOD_{distributed} = EXOD_{totalSupply} \times rewardRate
 $$
 
-## Why does the price of EXOD become irrelevant in long term?
+## Why does the price of EXOD become irrelevant in the long term?
 
 As illustrated above, your EXOD balance will grow exponentially over time thanks to the power of compounding. Let's say you buy an EXOD for $400 now and the market decides that in 1 year time, the intrinsic value of EXOD will be $2. Assuming a daily compound interest rate of 2%, your balance would grow to about 1377 EXODs by the end of the year, which is worth around $2754. That is a cool $2354 profit! By now, you should understand that you are paying a premium for EXOD now in exchange for a long-term benefit. Thus, you should have a long time horizon to allow your EXOD balance to grow exponentially and make this a worthwhile investment.
 
-## What will be EXOD's intrinsic value in the future?
+## What will EXOD's intrinsic value be in the future?
 
 There is no clear answer for this, but the intrinsic value can be determined by the treasury performance. For example, if the treasury could guarantee to back every EXOD with 100 DAI, the intrinsic value will be 100 DAI.
 

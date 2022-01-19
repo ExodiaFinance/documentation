@@ -8,7 +8,7 @@ Multi-signatures are a special contract which can act as a wallet which requires
 
 ## Team wallet
 
-**Description:** This contract has the ownership of the contracts (except the treasury) and can change policy. It requires 2/3 signatures.
+**Description:** This contract has the ownership of the contracts (except the treasury) and can change policy. It requires 3/5 signatures.
 
 **Link:** [https://safe.fantom.network/#/safes/0x9A1462a6dEC225388f52A4091e9C7D4a28D9eCe4/balances](https://safe.fantom.network/#/safes/0x9A1462a6dEC225388f52A4091e9C7D4a28D9eCe4/balances)
 
@@ -20,11 +20,15 @@ Agnostyk: 0x5d38d88153c6Dac34B5c2e102715C2E52a82E22c
 
 ComeWithMe: 0x3A1b69C7bE81c10E516F0F591B5aee92492F36e8
 
+LarzMayhem: 0x5edD9eE76ce259a5849188085F524039908CF693
+
+MeafQ: 0x72AFb664Bde3687AA4F531CCC8D1E430E9C39B9b
+
 ## DAO wallet
 
 **Description:** This wallet holds the team funds in EXOD which is minted when bonds are sold. These funds are for development purposes. This wallet is also the owner of the treasury. It requires 3/5 signatures.
 
-**Link:** [https://safe.fantom.network/#/safes/0xC4e0cbe134c48085e8FF72eb31f0Ebca29b152ee/settings](https://safe.fantom.network/#/safes/0xC4e0cbe134c48085e8FF72eb31f0Ebca29b152ee/settings)
+**Link:** [https://safe.fantom.network/#/safes/0xC4e0cbe134c48085e8FF72eb31f0Ebca29b152ee/settings](https://safe.fantom.network/#/safes/0xC4e0cbe134c48085e8FF72eb31f0Ebca29b152ee/balances)
 
 ### Signers
 
@@ -34,7 +38,7 @@ FieryDev: 0x63C87103063a146d75788780f2B026a01C03046B
 
 EerieEight: 0xE0c15e9Fe90d56472D8a43da5D3eF34ae955583C
 
-Alfa: 0x3A1508Cce5244E861d6a6884f4Df8200006103F3
+LarzMayhem: 0x5edD9eE76ce259a5849188085F524039908CF693
 
 HOVOH: 0x723BF24e952ac47C52bB6df19DE16294b027Cd3E
 

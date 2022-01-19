@@ -4,9 +4,9 @@ Staking allows you to earn EXOD passively via auto-compounding. By staking your 
 
 ## How to Buy EXOD
 
-1. Go to [this SpookySwap swap page](https://spookyswap.finance/swap?inputCurrency=0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E\&outputCurrency=0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7).
+1. Go to [this BeethovenX swap page](https://beets.fi/#/trade/fantom/0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7).
 2. Make sure the output currency is EXOD. You can also copy and paste the EXOD contract address _0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7_ into the output currency field to ensure you are swapping for the right token.
-3. You can select any input currency based on your available wallet balance. It is recommended to use DAI as the input currency to minimize the slippage.
+3. You can select any input currency based on your available wallet balance. It is recommended to use MAI as the input currency to minimize the slippage.
 4. Select the amount of EXOD you want to swap for. Then click "Approve" and sign the transaction.
 5. After the "Approve" transaction has been processed successfully, click "Swap" and sign the transaction.
 6. You should see EXOD in your wallet balance now after the swap transaction is successful. If you cannot find it in your wallet, add EXOD contract address _0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7_ to your wallet.
