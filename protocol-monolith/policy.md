@@ -2,7 +2,7 @@
 
 ## Bonds
 
-The **[BCV](../ecosystem/glossary.md#bcv)** allows us to scale the rate at which bond premiums increase. A higher BCV means a lower discount for bonders and more protocol profit. A lower BCV means a higher discount for bonders and less protocol profit.
+The **[BCV](/ecosystem/glossary.md#bcv)** allows us to scale the rate at which bond premiums increase. A higher BCV means a lower discount for bonders and more protocol profit. A lower BCV means a higher discount for bonders and less protocol profit.
 
 The **vesting term** determines how long it takes for bonds to become fully redeemable. A longer term means lower inflation and lower bond demand.
 
