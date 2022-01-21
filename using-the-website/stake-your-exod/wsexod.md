@@ -1,6 +1,6 @@
 # What is the purpose of wsEXOD?
 
-`wsEXOD` is the abbreviation for `wrapped staked EXOD`, which is the wrapped version of **sEXOD**.
+wsEXOD is the abbreviation for `wrapped staked EXOD`, which is the wrapped version of sEXOD.
 
 A wrapped token's value is pegged to that of another token. In our case wsEXOD derives its value from the following calculation:
 
