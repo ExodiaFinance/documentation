@@ -21,6 +21,4 @@ We have three different multi-sig wallets.
 
 These members are shown below.
 
-For the breakdown of our multi-signatures and their addresses please visit Multi-Signatures.
-
-![](../../../.gitbook/assets/ms.png>)
+![](<../../.gitbook/assets/ms.png>)
