@@ -17,7 +17,7 @@ Further to this we aim to become the decentralized reserve currency of Fantom, b
 
 ## How do I participate in EXODIA?
 
-There are two main strategies for market participants: [staking](using-the-website/stake-your-exod.md) and [bonding](using-the-website/purchase-a-bond/). Stakers stake their EXOD tokens in return for more EXOD tokens, while bonders provide LP, DAI or wFTM tokens in exchange for discounted EXOD tokens after a fixed vesting period.
+There are two main strategies for market participants: [staking](using-the-website/stake-your-exod/) and [bonding](using-the-website/purchase-a-bond/). Stakers stake their EXOD tokens in return for more EXOD tokens, while bonders provide LP, DAI or wFTM tokens in exchange for discounted EXOD tokens after a fixed vesting period.
 
 As we are a community run DAO we also have various roles available for contribution, for more information please join our discord server and speak with an Architect or Moderator.
 
