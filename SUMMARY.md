@@ -11,7 +11,9 @@
 ## Using the website
 
 * [Dashboard](using-the-website/dashboard.md)
-* [Stake Your EXOD (🧪,🧪)](using-the-website/stake-your-exod.md)
+* [Stake Your EXOD (🧪,🧪)](using-the-website/stake-your-exod)
+  * [Stake Your EXOD](using-the-website/stake-your-exod/stake-your-exod.md)
+  * [wsEXOD](using-the-website/stake-your-exod/wsexod.md)
 * [Purchase A Bond](using-the-website/purchase-a-bond/README.md)
   * [DAI Bond](using-the-website/purchase-a-bond/dai-bond.md)
   * [wFTM Bond](using-the-website/purchase-a-bond/wftm-bond.md)
