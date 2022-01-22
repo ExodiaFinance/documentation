@@ -11,7 +11,8 @@
 ## Using the website
 
 * [Dashboard](using-the-website/dashboard.md)
-* [Stake Your EXOD (🧪,🧪)](using-the-website/stake-your-exod.md)
+* [Stake Your EXOD (🧪,🧪)](using-the-website/stake-your-exod/README.md)
+  * [wsEXOD](using-the-website/stake-your-exod/wsexod.md)
 * [Purchase A Bond](using-the-website/purchase-a-bond/README.md)
   * [DAI Bond](using-the-website/purchase-a-bond/dai-bond.md)
   * [wFTM Bond](using-the-website/purchase-a-bond/wftm-bond.md)
@@ -27,6 +28,7 @@
 
 * [Glossary](ecosystem/glossary.md)
 * [Contracts](ecosystem/contracts.md)
-* [Multi-Signatures](ecosystem/multi-signatures.md)
+* [Asset Security](ecosystem/asset-security/README.md)
+  * [Multi-Signatures](ecosystem/asset-security/multi-signatures.md)
 * [Equations](ecosystem/equations.md)
 * [Links](ecosystem/links.md)

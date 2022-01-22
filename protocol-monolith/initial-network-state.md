@@ -12,7 +12,7 @@ The following are the initial policy states:
 
 *   **BCV**
 
-    [BCV](https://github.com/Agnostik3301/documentation/blob/main/ecosystem/glossary.md#bcv) varies based on bond types. It is tuned regularly by the Policy team to meet the protocol goals. For example, if the protocol wants to accumulate more liquidity into its treasury, it can lower the BCV for liquidity bonds to increase their bond capacity.
+    [BCV](/ecosystem/glossary.md#bcv) varies based on bond types. It is tuned regularly by the Policy team to meet the protocol goals. For example, if the protocol wants to accumulate more liquidity into its treasury, it can lower the BCV for liquidity bonds to increase their bond capacity.
 *   **Bond vesting term**
 
     It is set to 432000 Fantom blocks or approximately five days for all bond types.

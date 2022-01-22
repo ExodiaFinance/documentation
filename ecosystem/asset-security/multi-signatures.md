@@ -46,7 +46,7 @@ HOVOH: 0x723BF24e952ac47C52bB6df19DE16294b027Cd3E
 
 **Description:** This wallet holds the exodiadao.eth domain ans sOHM we purchased by bridging funds from our Fantom treasury. It requires 3/5 signatures.
 
-**Link:** [**https://gnosis-safe.io/app/eth:0xdAdB69F5061E9087f8C30594bC2567D8Bc927C2b/settings/owners**](https://gnosis-safe.io/app/eth:0xdAdB69F5061E9087f8C30594bC2567D8Bc927C2b/settings/owners)****
+**Link:** [https://gnosis-safe.io/app/eth:0xdAdB69F5061E9087f8C30594bC2567D8Bc927C2b/settings/owners](https://gnosis-safe.io/app/eth:0xdAdB69F5061E9087f8C30594bC2567D8Bc927C2b/settings/owners)
 
 ### Signers:
 
