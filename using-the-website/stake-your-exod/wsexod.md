@@ -4,7 +4,9 @@ wsEXOD is the abbreviation for `wrapped staked EXOD`, which is the wrapped versi
 
 A wrapped token's value is pegged to that of another token. In our case wsEXOD derives its value from the following calculation:
 
-$$ Current market value of EXOD * Current Index = wsEXOD value $$
+$$
+Current market value of EXOD * Current Index = wsEXOD value
+$$
 
 As the current index increases with each rebase, so does the value of wsEXOD relative to the current price of EXOD.
 
