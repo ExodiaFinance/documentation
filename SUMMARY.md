@@ -18,6 +18,8 @@
   * [DAI Bond](using-the-website/purchase-a-bond/dai-bond.md)
   * [wFTM Bond](using-the-website/purchase-a-bond/wftm-bond.md)
   * [The Monolith LP Bond](using-the-website/purchase-a-bond/the-monolith-lp-bond.md)
+  * [gOHM Bond](using-the-website/purchase-a-bond/gohm-bond.md)
+  * [fBEETS Bond](using-the-website/purchase-a-bond/fbeets-bond.md)
 
 ## Protocol Monolith
 
