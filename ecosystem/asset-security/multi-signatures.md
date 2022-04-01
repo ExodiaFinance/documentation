@@ -64,7 +64,7 @@ HOVOH: 0xE0c15e9Fe90d56472D8a43da5D3eF34ae955583C
 
 ## Strategia Wallet
 
-**Description:** This wallet explores farming/trading strategies. It requires 4/6 signatures.
+**Description:** This wallet explores farming/trading strategies. It requires 3/5 signatures.
 
 **Link:** [**https://safe.fantom.network/#/safes/0xBfBb3ADeaFffdE3047E9502E1FDF751292736fc2**](https://safe.fantom.network/#/safes/0xBfBb3ADeaFffdE3047E9502E1FDF751292736fc2/apps?appUrl=https://safe.fantom.network/walletConn)****
 
@@ -83,7 +83,7 @@ Thisisadz: 0xf361420a763b4866d98E7afA2Af76D1D5eE9A515
 ## Investment Wallet
 
 **Description:** This wallet was created after a snapshot vote where holders agreed to a special investment fund. This is used to accommodate "flash" partnerships/investments that are time sensitive and would otherwise take too much time to perform due to governance dilemma. \
-It requires 4/6 signatures.\
+It requires 3/5 signatures.\
 **Snapshot:** [**https://snapshot.org/#/exodiadao.eth/proposal/0x7a3fa62e69fa6b6ef089fb1d3c4f7b8ce3409dccdc56a29bbe2d05c9eab11bc8**](https://snapshot.org/#/exodiadao.eth/proposal/0x7a3fa62e69fa6b6ef089fb1d3c4f7b8ce3409dccdc56a29bbe2d05c9eab11bc8)****
 
 **Link:** [**https://safe.fantom.network/#/safes/0x8A274ed01BcA0D89CB5E636A54F9C4b5be0b48fb**](https://safe.fantom.network/#/safes/0x8A274ed01BcA0D89CB5E636A54F9C4b5be0b48fb/balances)****
